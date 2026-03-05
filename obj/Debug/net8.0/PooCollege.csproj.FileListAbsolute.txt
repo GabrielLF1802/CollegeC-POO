@@ -1,0 +1,14 @@
+/home/gabriel/RiderProjects/PooCollege/bin/Debug/net8.0/PooCollege
+/home/gabriel/RiderProjects/PooCollege/bin/Debug/net8.0/PooCollege.deps.json
+/home/gabriel/RiderProjects/PooCollege/bin/Debug/net8.0/PooCollege.runtimeconfig.json
+/home/gabriel/RiderProjects/PooCollege/bin/Debug/net8.0/PooCollege.dll
+/home/gabriel/RiderProjects/PooCollege/bin/Debug/net8.0/PooCollege.pdb
+/home/gabriel/RiderProjects/PooCollege/obj/Debug/net8.0/PooCollege.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/RiderProjects/PooCollege/obj/Debug/net8.0/PooCollege.AssemblyInfoInputs.cache
+/home/gabriel/RiderProjects/PooCollege/obj/Debug/net8.0/PooCollege.AssemblyInfo.cs
+/home/gabriel/RiderProjects/PooCollege/obj/Debug/net8.0/PooCollege.csproj.CoreCompileInputs.cache
+/home/gabriel/RiderProjects/PooCollege/obj/Debug/net8.0/PooCollege.dll
+/home/gabriel/RiderProjects/PooCollege/obj/Debug/net8.0/refint/PooCollege.dll
+/home/gabriel/RiderProjects/PooCollege/obj/Debug/net8.0/PooCollege.pdb
+/home/gabriel/RiderProjects/PooCollege/obj/Debug/net8.0/PooCollege.genruntimeconfig.cache
+/home/gabriel/RiderProjects/PooCollege/obj/Debug/net8.0/ref/PooCollege.dll
