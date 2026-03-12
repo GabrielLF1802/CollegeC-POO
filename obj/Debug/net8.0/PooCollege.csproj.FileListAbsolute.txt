@@ -12,3 +12,4 @@
 /home/gabriel/RiderProjects/PooCollege/obj/Debug/net8.0/PooCollege.pdb
 /home/gabriel/RiderProjects/PooCollege/obj/Debug/net8.0/PooCollege.genruntimeconfig.cache
 /home/gabriel/RiderProjects/PooCollege/obj/Debug/net8.0/ref/PooCollege.dll
+/home/gabriel/RiderProjects/PooCollege/obj/Debug/net8.0/PooCollege.sourcelink.json
