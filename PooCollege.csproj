@@ -9,8 +9,4 @@
   <ItemGroup>
     <Compile Remove=".idea/**/*.cs" />
   </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="exercices\" />
-  </ItemGroup>
 </Project>
